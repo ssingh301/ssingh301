@@ -4,7 +4,7 @@ I build software.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,python,dart,react,materialui,flutter,nodejs,dotnet,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,.net,ts,cs,java,dart,react,materialui,flutter,nodejs,dotnet,html,css)](https://skillicons.dev)
 <!--
 **ssingh301/ssingh301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
